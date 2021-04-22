@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JiradaWi
 - 👀 I’m interested in Sleeping
-- 🌱 I’m currently learning Kotlin! Why Kotlin is so hard?
+- 🌱 I’m currently learning... wait... what am I learning?
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
 
