@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @JiradaWi
-- 👀 I’m interested in Sleeping
-- 🌱 I’m currently learning... wait... what am I learning?
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me ...
+A developer who hate coffee.
 
 <!---
 JiradaWi/JiradaWi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
